@@ -3,6 +3,9 @@
 
 ### I am Shubham Jangid, an Aspiring Software Engineer and a final year undergrad at NIT, Srinagar
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=3dbea2&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently learning React.js.
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo.
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [WhatsApp Clone](https://whatsappclone-kshitij.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
@@ -20,7 +23,11 @@
 <code><a href="mailto:kshitijanand2@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocamboo&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/kshitijanand36/github-readme-stats)
----
+
+
+ <img src = "https://github-readme-stats.vercel.app/api?username=mocamboo&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
+ 
+ ---
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,5 +35,3 @@
   </a>
 </div>
 ---
-
- <img src = "https://github-readme-stats.vercel.app/api?username=mocamboo&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
