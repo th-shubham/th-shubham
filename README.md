@@ -20,7 +20,7 @@
 <!-- <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code> -->
 <!-- <code><img width="40px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code> -->
 <!-- <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code> -->
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<!-- <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code> -->
 <!-- <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code> -->
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
@@ -36,9 +36,9 @@
 
 ### 🌐 Connect with me 
 <code><a href="https://www.linkedin.com/in/mocamboo/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<!-- <code><a href="https://www.facebook.com/kshitij.anand.750"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code> -->
-<code><a href="mailto:shubham0jangid@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
+<code><a href="mailto:shubham0jangid@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<!-- <code><a href="https://www.facebook.com/kshitij.anand.750"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocamboo&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/kshitijanand36/github-readme-stats)
 
 
