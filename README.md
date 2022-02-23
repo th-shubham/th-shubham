@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning React.js.
 - 😄 My areas of interest are  Web development, Competitive programming, DS algo.
-- 🔭 Checkout my webd projects: [Space Travel Website](https://space-tour-plan.netlify.app/index.html) , [WhatsApp Clone](https://whatsappclone-kshitij.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
+<!-- - 🔭 Checkout my webd projects: [Space Travel Website](https://space-tour-plan.netlify.app/index.html) , [WhatsApp Clone](https://whatsappclone-kshitij.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/) -->
 
  ### 🔧 Languages and Frameworks:
 <p align="centre"> 
