@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Shubham Jangid, an Aspiring Software Engineer and a final year undergrad at NIT, Srinagar
+### I am Shubham Jangid, an Aspiring Software Engineer and a final year undergrad at NIT Srinagar
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=3dbea2&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg) -->
 
