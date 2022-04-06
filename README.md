@@ -10,8 +10,8 @@ Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br>
 
 **Projects:**
 
-<p> [ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
-</p>
+[ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
+
 **Languages and Tools:**
 
 <p align="centre"> 
