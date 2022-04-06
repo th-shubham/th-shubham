@@ -1,14 +1,14 @@
-## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey 👋🏽, I'm [Shubham!]
+<!-- (https://shivaylamba.me)  -->
 
+Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-ShivayLamba-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mocamboo)](https://www.linkedin.com/in/mocamboo/)
+<!-- [![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/)](https://twitter.com/here____here)  -->
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shubham0jangid@gmail.com)](mailto:shubham0jangid@gmail.com)
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=mocamboo.mocamboo)  <br> 
 
-### I am Shubham Jangid, an Aspiring Software Engineer and a final year undergrad at NIT Srinagar
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=3dbea2&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg) -->
-
-
-- 🔭 I’m currently learning React.js.
-- 😄 My areas of interest are  Web development, Competitive programming, DS algo.
-<!-- - 🔭 Checkout my webd projects: [Space Travel Website](https://space-tour-plan.netlify.app/index.html) , [WhatsApp Clone](https://whatsappclone-kshitij.netlify.app/) , [KeeperApp](https://keeperapp-kshitij.netlify.app/) , [ToDoList](https://todolist-kshitij.herokuapp.com/) ,  [Snake Game](https://kshitijanand36.github.io/Snake-Game/) ,  [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/) -->
+🔭 Checkout my webd projects: [ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
 
  ### 🔧 Languages and Frameworks:
 <p align="centre"> 
