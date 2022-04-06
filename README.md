@@ -13,7 +13,7 @@ Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br>
 **Languages and Tools:**
 
 <p align="centre"> 
-     <code><img width="30px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+     <img width="30px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/>
 <code><img width="30px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <!-- <code><img width="30px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code> -->
 <!-- <code><img width="30px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code> -->
