@@ -39,12 +39,4 @@
 
 
  <img src = "https://github-readme-stats.vercel.app/api?username=mocamboo&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
- 
- ---
-<div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
-  </a>
-</div>
----
+
