@@ -9,7 +9,7 @@ Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br>
 
 🔭 Checkout my webd projects: [ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signup-kshitijanand.herokuapp.com/)
 
- ### 🔧 Languages and Frameworks:
+ **Languages and Tools:**  
 <p align="centre"> 
      <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
@@ -30,12 +30,5 @@ Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br>
 </p>
 <br>
 
-### 🌐 Connect with me 
-<code><a href="https://www.linkedin.com/in/mocamboo/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="mailto:shubham0jangid@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
-<!-- <code><a href="https://www.facebook.com/kshitij.anand.750"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocamboo&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/kshitijanand36/github-readme-stats)
 
-
- <img src = "https://github-readme-stats.vercel.app/api?username=mocamboo&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
-
+![Shivay's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
