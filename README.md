@@ -2,8 +2,7 @@
 <!-- (https://shivaylamba.me)  -->
 
 Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-ShivayLamba-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mocamboo)](https://www.linkedin.com/in/mocamboo/)
-<!-- [![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/)](https://twitter.com/here____here)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-ShubhamJangid-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mocamboo)](https://www.linkedin.com/in/mocamboo/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shubham0jangid@gmail.com)](mailto:shubham0jangid@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=mocamboo.mocamboo)  <br> 
