@@ -15,23 +15,23 @@ Hi, I'm Shubham Jangid, a Web Developer🚀 from India. <br> <br>
 **Languages and Tools:**
 
 <p align="centre"> 
-     <img width="30px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/>
-<img width="30px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/>
-<!-- <img width="30px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/> -->
-<!-- <img width="30px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/> -->
-<!-- <img width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/> -->
-<!-- <img width="30px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/> -->
-<!-- <img width="30px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/> -->
-<img width="30px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/>
-<img width="30px" src="https://img.icons8.com/color/2x/git.png" title="Git"/>
-<img width="30px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/>
-<img width="30px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
-<img width="30px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
-<img width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/>
-<!-- <img width="30px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/> -->
-<img width="30px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
-<!-- <img width="30px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
+     <img width="35px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/>
+<img width="35px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/>
+<!-- <img width="35px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/> -->
+<!-- <img width="35px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/> -->
+<!-- <img width="35px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/> -->
+<!-- <img width="35px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/> -->
+<!-- <img width="35px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/> -->
+<img width="35px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/>
+<img width="35px" src="https://img.icons8.com/color/2x/git.png" title="Git"/>
+<img width="35px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/>
+<img width="35px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
+<img width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
+<img width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/>
+<!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/> -->
+<img width="35px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
+<!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
 </p>
 <br>
 
-![Shivay's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
