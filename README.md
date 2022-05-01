@@ -12,7 +12,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 
 [ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signp-.herokuapp.com/)
  -->
-**Languages and Tools:**
+<!-- **Languages and Tools:**
 
 <p align="centre"> 
      
@@ -32,6 +32,10 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
 </p>
 <br>
-
+-->
+<br>
+<br>
+<br>
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
 
+ 
