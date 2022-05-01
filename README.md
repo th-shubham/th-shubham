@@ -8,7 +8,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=mocamboo.mocamboo) <br>
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
+
 
 <!-- **Projects:**
 
