@@ -24,7 +24,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <!-- <img width="35px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/> -->
 <img width="35px" src="https://img.icons8.com/office/452/react.png" title="React.Js"/>
 <img width="35px" src="https://img.icons8.com/color/2x/git.png" title="Git"/>
-<img width="35px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/>
+<img width="35px" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" title="Bootstrap"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/>
