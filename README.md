@@ -15,7 +15,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <!-- **Languages and Tools:**
 
 <p align="centre"> 
-     
+<!--      
 <img width="35px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/>
 <!-- <img width="35px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/> -->
 <img width="35px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/>
@@ -28,7 +28,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <img width="35px" src="https://img.icons8.com/color/344/html-5--v1.png" title="HTML"/>
 <img width="35px" src="https://img.icons8.com/ios-filled/344/javascript-logo.png" title="Javascript"/>
 <img width="35px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/>
-<img width="35px" style="background-color:red" src="https://img.icons8.com/color/344/nodejs.png" title="Nodejs"/>
+<img width="35px" style="background-color:red" src="https://img.icons8.com/color/344/nodejs.png" title="Nodejs"/> -->
 <!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
 </p>
 <br>
