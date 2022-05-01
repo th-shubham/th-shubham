@@ -29,7 +29,7 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <img width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/>
 <img width="35px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/>
-<img width="35px" style="background:red" src="https://img.icons8.com/color/344/nodejs.png" title="Nodejs"/>
+<img width="35px" style="background-color:red" src="https://img.icons8.com/color/344/nodejs.png" title="Nodejs"/>
 <!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
 </p>
 <br>
