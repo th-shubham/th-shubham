@@ -22,14 +22,14 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <!-- <img width="35px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/> -->
 <!-- <img width="35px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/> -->
 <!-- <img width="35px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/> -->
-<img width="35px" src="https://img.icons8.com/office/452/react.png" title="GitHub"/>
+<img width="35px" src="https://img.icons8.com/office/452/react.png" title="React.Js"/>
 <img width="35px" src="https://img.icons8.com/color/2x/git.png" title="Git"/>
 <img width="35px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
 <img width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/>
-<!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/> -->
-<img width="35px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
+<img width="35px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/>
+<img width="35px" src="https://img.icons8.com/color/344/nodejs.png" title="Nodejs"/>
 <!-- <img width="35px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/> -->
 </p>
 <br>
