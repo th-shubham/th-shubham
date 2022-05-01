@@ -8,14 +8,13 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=mocamboo.mocamboo) <br>
 
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
+
 <!-- **Projects:**
 
 [ToDoList](https://todolist-app-project-shubham.herokuapp.com/), [Election-Guard](https://election-guard-project-shubham.herokuapp.com/), [Space Travel Website](https://space-tour-plan.netlify.app/index.html), [Newsletter-Signup](https://newsletter-signp-.herokuapp.com/)
  -->
 
-<br>
-<br>
-<br>
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=mocamboo&show_icons=true&hide_border=true)
+
 
  
