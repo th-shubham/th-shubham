@@ -17,5 +17,6 @@ Hi, I'm Shubham Jangid, a  Web Developer🚀 from India. <br> <br>
 
 
 
- 
+<!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31urvq5yk5d7uviozanrtoveizuu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
